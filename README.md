@@ -5,7 +5,7 @@ A professional-grade SimHub plugin for recording and playing back custom rally p
 > 📖 **[CLICK HERE FOR THE FULL USER & RECORDING GUIDE (WIKI)](https://github.com/hector-diaz-SR/RallyRoadbook/blob/main/USAGE.md)**
 
 ## 🚀 Quick Installation
-1.  **Download:** Go to the [Releases](https://github.com) section and download `RallyRoadbook.dll` and `RallyRoadbook.simhubdash`.
+1.  **Download:** Go to the [Releases](https://github.com/hector-diaz-SR/RallyRoadbook/releases) section and download `RallyRoadbook.dll` and `RallyRoadbook.simhubdash`.
 2.  **Plugin:** Copy the `RallyRoadbook.dll` file into your SimHub installation root folder (where `SimHubWPF.exe` is located).
 3.  **Dashboard:** Double-click the `RallyRoadbook.simhubdash` file to automatically import it into your SimHub Dash Studio library.
 4.  **Restart:** Restart SimHub to activate the plugin.
