@@ -34,3 +34,13 @@ This project is Open Source under the **GNU GPL v3.0** license. If you are a dev
 
 \*Developed with ❤️ for the SimRacing community.\*
 
+---
+
+### ☕ Support the Project
+If you find this tool useful and want to support its development, you can buy me a coffee here:
+
+[![PayPal](https://shields.io)](https://paypal.me/HectorDiazSR)
+
+> *Your support helps me dedicate more time to mapping new games like DR2.0 and WRC!*
+
+
