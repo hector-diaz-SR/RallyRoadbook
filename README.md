@@ -1,4 +1,5 @@
 # 🏁 RallyRoadbook for SimHub
+> 📖 **[CLICK HERE FOR THE FULL USER & RECORDING GUIDE (WIKI)](https://github.com/hector-diaz-SR/RallyRoadbook/blob/main/USAGE.md)**
 
 A professional-grade SimHub plugin for recording and playing back custom rally pacenotes, featuring a dynamic integrated dashboard.
 
