@@ -13,7 +13,7 @@ A professional-grade SimHub plugin for recording and playing back custom rally p
 ## 🏎️ Compatibility & Testing
 > \[!IMPORTANT]
 > This version (**v0.1.0**) has been tested exclusively under the following environment:
-> -   **Game:** Dirt Rally 1.0 (be sure to have telemetry enabled as described in Simhub HowTo.txt -> hardware_settings_config.xml)
+> -   **Game:** Dirt Rally 1.0 (be sure to have **TELEMETRY ENABLED** as described in Simhub HowTo.txt -> hardware_settings_config.xml)
 > -   **SimHub Version:** 9.11.5
 
 ### Roadmap
