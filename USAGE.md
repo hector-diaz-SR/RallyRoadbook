@@ -24,7 +24,7 @@ Once the plugin detects you are on track, the dashboard will automatically switc
 
 ### ⚙️ Panel Functionality:
 *   **Triple Selector (Rotary):** Allows you to configure the note before saving it:
-    *   **Note Type:** Select warnings (Warning, Jump, etc.).
+    *   **Note type:** Select either “Righ-Left” or “Warning.”
     *   **Intensity:** Defines the corner tightness (from 1 to 6).
     *   **Modifier:** Adds extra info like "Don't Cut".
 *   **Action Button (Large Icon):** When pressed, the plugin captures the vehicle's **exact position** on the stage and links the data selected on the rotary to that kilometer point.
