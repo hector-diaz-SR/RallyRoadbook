@@ -18,7 +18,7 @@ The dashboard is designed to wait for a **live telemetry signal**. It will autom
 ---
 
 ## 📝 2. Stage Recorder: Real-Time Note Recording
-Once the plugin detects you are on track, the dashboard will automatically switch to the **Stage Recorder** interface. This screen allows you to perform a reconnaissance lap and create your own roadmap.
+Once the plugin detects you are on track, the dashboard will activate the **Stage Recorder** interface. This screen allows you to perform a reconnaissance lap and create your own roadmap.
 
 ![Recording Interface](docs/Stage_recorder.png)
 
@@ -37,7 +37,7 @@ Files are automatically generated in `.json` format to keep them lightweight and
 ---
 
 ## 🏁 3. RoadBook Mode: Note Playback
-When the plugin detects that a `.json` file already exists for the current track and car, the dashboard activates the **RoadBook** mode. This interface is optimized to let the digital co-driver anticipate hazards at top speed.
+When the plugin detects that a `.json` file already exists for the current track, the dashboard activates the **RoadBook** mode. This interface is optimized to let the digital co-driver anticipate hazards at top speed.
 
 ![RoadBook Mode](docs/Note_player.png)
 
