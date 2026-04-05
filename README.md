@@ -26,7 +26,7 @@ This project is Open Source under the **GNU GPL v3.0** license. If you are a dev
 ## ✨ Credits & Tools
 -   **Lead Developer:** Hector Diaz.
 -   **Logic:** Custom C# Plugin for SimHub.
--   **Visual Design:** Dashboard graphical assets were generated with the assistance of **Google Gemini AI**.
+-   **Visual Design:** Dashboard graphical assets were generated with the assistance of **Copilot AI**.
 
 ---
 
